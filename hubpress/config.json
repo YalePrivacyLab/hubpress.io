@@ -5,6 +5,22 @@
     "branch": "gh-pages"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://YalePrivacyLab.github.io/privacylab-website",
+    "hubpress": "https://yaleprivacylab.github.io/privacylab-website",
+    "theme": "//YalePrivacyLab.github.io/privacylab-website/themes/casper",
+    "images": "https://YalePrivacyLab.github.io/privacylab-website/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
   }
 }
