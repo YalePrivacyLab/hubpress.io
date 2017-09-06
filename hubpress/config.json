@@ -11,7 +11,7 @@
   "urls": {
     "site": "https://YalePrivacyLab.github.io/privacylab-website",
     "hubpress": "https://yaleprivacylab.github.io/privacylab-website",
-    "theme": "//YalePrivacyLab.github.io/privacylab-website/themes/casper",
+    "theme": "//YalePrivacyLab.github.io/privacylab-website/themes/ichi",
     "images": "https://YalePrivacyLab.github.io/privacylab-website/images"
   },
   "initialisationConfigComponent": {
